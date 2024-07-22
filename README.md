@@ -14,7 +14,8 @@ The DRAFT page can be seen at [/we-declare.github.io/declaration/](https://we-de
 * work on declaration wording
 * decide on how signup works
   * email? What about privacy concerns?
-  * zip/postcode? (A map would be nice)
+  * zip/postcode? (A world map would be nice)
 * make it look good
   * make it look good when posted on social media
+* translations
 * get a domain
